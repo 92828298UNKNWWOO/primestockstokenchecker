@@ -1,0 +1,5 @@
+colorama==0.4.6
+curl-cffi==0.5.10
+pystyle==2.9
+toml==0.10.2
+requests==2.31.0
