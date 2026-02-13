@@ -29,20 +29,20 @@ A fast and powerful Discord token checker that helps you check and sort your tok
 
 - 🎨 **Easy to Use**
   - Live console stats and progress
-  - Windows console title shows Valid, Invalid, Locked, Remaining, % checked, and CPS
+  - Windows/Mac console title shows Valid, Invalid, Locked, Remaining, % checked, and CPS
   - Press Enter to exit when done
 
 ## How to Get Started
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/92828298UNKNWWOO/primestockstokenchecker
+cd (folder-where-the=checker-is-located)
 ```
 
 2. **Install dependencies**
 ```bash
-pip install colorama pystyle toml curl_cffi
+pip install -r requirements.txt or python3 -m pip install -r requirements.txt
 ```
 
 3. **Set it up**
@@ -166,7 +166,7 @@ Join the [Discord server](https://discord.gg/realprimestocks) or open an issue o
 
 ## Star Goal ⭐
 
-Star this twin
+Star this project twin
 
 ---
 
