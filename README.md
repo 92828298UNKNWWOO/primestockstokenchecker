@@ -162,7 +162,7 @@ This project is for educational purposes only. Use it in compliance with Discord
 
 ## Need Help?
 
-Join the [Discord server](https://discord.gg/realprimestocks) or open an issue on GitHub.
+Join the [Discord server](https://discord.gg/realprimestocks) and make a ticket for help!
 
 ## Star Goal ⭐
 
